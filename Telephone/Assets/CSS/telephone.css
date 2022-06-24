@@ -1,0 +1,89 @@
+html, body{
+    margin:0px;
+    padding :0x;
+}
+
+body{
+    background-color: whitesmoke;
+}
+.pochette{
+ 
+    width: 20%;
+    height: 480px;
+    margin-left: 35%;
+    border-radius: 25px;
+    background-color: #d9534f;
+    padding: 10px;
+    box-shadow: 4px 3px 3px 2px grey;
+}
+
+.telephone
+{
+    background-color: black;
+    height: inherit;
+    border: none;
+    border-radius: 20px;
+}
+
+.header{
+    height: 40px;
+    padding: 0px;
+    margin: 0px;
+    display: inline-block;
+    width: 100%;
+}
+
+.camera{
+    height: 10px;
+    background-color: aliceblue;
+    width: 10px;
+    border-radius: 10px;
+    display: inline-block;
+    margin-left: 35%;
+}
+
+.oeil_camera{
+    height: 5px;
+    display: inline-block;
+    width: 5px;
+    border-radius: 5px;
+    background-color: rgb(20, 19, 19);
+    text-align: center;
+    line-height: 7px;
+    margin: 30%;
+}
+
+.micro{
+    border: inset;
+    height: 5px;
+    width: 45px;
+    display: inline-block;
+    background-color: rgb(58, 57, 57);
+    border-radius: 5px;
+}
+
+.screen{
+    display: inline-block;
+    background-color: rgb(58, 57, 57);
+    height: 350px;
+    width: 100%;
+    border: none;
+}
+
+footer{
+    border: groove;
+    height: 50px;
+    display: inline-block;
+}
+.btn_home
+{
+    display: inline-block;
+    border: inset;
+    height: 40px;
+    width: 40px;
+    border-radius: 40px;
+    margin: 10px;
+    margin-left: 40%;
+    cursor: pointer;
+}
+
